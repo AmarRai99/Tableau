@@ -2,23 +2,23 @@
 
 # Initial Thoughts
 
-The data that I have used is from the CitiBike website and from February 2019. 
+* The data that I have used is from the CitiBike website and from February 2019. 
 
-The story contains two dashboards to highlight two key phenomena.
+* The story contains two dashboards to highlight two key phenomena.
 
-I focused on gender as well as start and end station phenomena.
+* I focused on gender as well as start and end station phenomena.
 
-Depspite focusing on gender, the "unknown" gender was not removed.
+* Depspite focusing on gender, the "unknown" gender was not removed.
 
-Repeated users (subscribers), are far more likely to input their gender information when compared to customers.
+* Repeated users (subscribers), are far more likely to input their gender information when compared to customers.
 
-Furthermore, this could also be due to not everyone wanting to label themselves as 'male' or 'female'.
+* Furthermore, this could also be due to not everyone wanting to label themselves as 'male' or 'female'.
 
-The earliest year of birth for the riders was 1874. which is unrealisitic and will most likely be due to people entering an incorrect DOB. 
+* The earliest year of birth for the riders was 1874. which is unrealisitic and will most likely be due to people entering an incorrect DOB. 
 
-I have included hyperlinks into the dashboard that link to the original data source.
+* I have included hyperlinks into the dashboard that link to the original data source.
 
-I chose to use the data from February 2019 as this was just before covid would have a significant impact on our lives.
+* I chose to use the data from February 2019 as this was just before covid would have a significant impact on our lives.
 
 # Gender Analysis
 
