@@ -14,6 +14,20 @@ Repeated users (subscribers), are far more likely to input their gender informat
 
 Furthermore, this could also be due to not everyone wanting to label themselves as 'male' or 'female'.
 
-The earliest year of birth for the riders was 1885, I would think it is fair to say from 1885 to approximately 1930 is just people inputting their DOB wrong. I have trouble believing that someone who is 138 years old is going on bike rides around New York City (but you never know). For this reason I have included a Year or Birth filter in slider format into my dashboard, so as not to discount the potential immortals living amongst us.
+The earliest year of birth for the riders was 1874. which is unrealisitic and will most likely be due to people entering an incorrect DOB. 
+
 I have included hyperlinks into the dashboard that link to the original data source.
-I chose the month Feburary from 3 different years pre-covid to determine if year on year there was an increase in usage.
+
+I chose to use the data from February 2019 as this was just before covid would have a significant impact on our lives.
+
+# Gender Analysis
+
+Initially the first phenomena i noticed was that there were generally more male users than female users. There were approximately 66.28% and 21.78%. The large difference in the number of male and female users is due to females prefering not to cycle in areas with more traffic. 
+
+The "unknown" gender has a higher percentage of customers than subscribers which is not the case for both males and females. 
+
+# Analysis on Busiest periods 
+
+The busiest periods for the Citibike program are from 7am till 10am which will most proabably be due to people commuting to and from work.
+
+The busiest time and day for male cyclists is 5pm and Friday, whereas the busiest period in regards to time and day for females is 8am and Fridays respectively.
